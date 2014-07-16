@@ -5,6 +5,6 @@ remoteremote
 asdasdasd
 remote and local
 asdasdasdasd
-local yes local
+local neither both local
 localupdate
 asdasdasdasd
