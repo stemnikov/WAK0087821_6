@@ -3,7 +3,7 @@ asdasdad
 sdfsdfsdf
 remoteremote
 asdasdasd
-local
+remote and local
 asdasdasdasd
 locallocal
 localupdate
