@@ -3,7 +3,7 @@ asdasdad
 sdfsdfsdf
 remote is so remote
 asdasdasd
-remote and local
+remote and local github
 asdasdasdasd
 local neither both local
 localupdate
